@@ -23,7 +23,7 @@ No Apple Music. No Premium needed. No BS.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Bugbutcherr/spotify-voice-shortcut.git
+   git clone https://github.com/bugbutcherr/spotify-voice-shortcut.git
    cd spotify-voice-shortcut
    
 2. install dependencies:
