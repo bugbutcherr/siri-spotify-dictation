@@ -27,17 +27,26 @@ No Apple Music. No Premium needed. No BS.
    cd spotify-voice-shortcut
    
 2. install dependencies:
-   pip3 install spotipy
+   pip3 install -r requirements.txt
+   if thats not working just type "pip3 install spotipy" in the terminal
    
-3. Fill in your client_id, client_secret, and redirect_uri in iplay_song.py.
+4. Fill in your client_id, client_secret, and redirect_uri in iplay_song.py.(you get this in the spotify developer)
 
-4. Create a Shortcut in macOS:
+5. Create a Shortcut in macOS:
 
 Dictate Text
 
 Run Shell Script:
 
-python3 /path/to/play_song.py "[Dictated Text]"
+python3 /path/to/iplay_song.py "[Dictated Text]"
 
 Or you could just click this link -> https://www.icloud.com/shortcuts/0ee765398e684f18b39583c4d6d32402
+(please note you need to add the folder in by yourself if youre using the link)
+
+Recommended Siri Phrase
+Name your Shortcut: “Music by Voice”
+This avoids Siri defaulting to Apple Music.
+
+Thank you this is my first time creating a repository I just want to help the community out if you guys have any advices or issues just reach out to me
+ill try to solve it ASAP🫶!!
 
