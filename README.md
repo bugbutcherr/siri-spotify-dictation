@@ -49,4 +49,5 @@ This avoids Siri defaulting to Apple Music.
 
 Thank you this is my first time creating a repository I just want to help the community out if you guys have any advices or issues just reach out to me
 ill try to solve it ASAP🫶!!
+Edit-> it isnt necessary for the shortcut to run as admin you can turn it off if you want :)
 
