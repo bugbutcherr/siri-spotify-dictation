@@ -29,7 +29,7 @@ No Apple Music. No Premium needed. No BS.
 2. install dependencies:
    pip3 install spotipy
    
-3. Fill in your client_id, client_secret, and redirect_uri in play_song.py.
+3. Fill in your client_id, client_secret, and redirect_uri in iplay_song.py.
 
 4. Create a Shortcut in macOS:
 
